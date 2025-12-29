@@ -8,6 +8,8 @@ __pycache__/
 *.log
 *.tmp
 
-# Ignore datasets (optional)
+# Ignore datasets
 *.csv
 *.xlsx
+#.pptx
+#.docx
